@@ -1,0 +1,5 @@
+[
+			{ 'Task Name': 'Todo list component', Date: new Date(), Completion: true, Reminder: false },
+			{ 'Task Name': 'Udemy course', Date: new Date(), Completion: false, Reminder: true },
+			{ 'Task Name': 'Training', Date: new Date(), Completion: true, Reminder: true }
+]
