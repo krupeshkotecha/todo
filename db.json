@@ -1,6 +1,21 @@
 {
-  "post":
-	[{ "Task Name": "Todo list component", "Date" : "22 Jul 2021", "Completion" : true, "Reminder": false },
-	{ "Task Name": "Udemy course", "Date" : "22 Jul 2021", "Completion" : false, "Reminder": true },
-	{ "Task Name": "Training", "Date" : "22 Jul 2021", "Completion" : true, "Reminder": true }]
+  "get":[
+	 { "Task Name": "Todo list component", "Date" : "06 Jun 2021", "Completion" : true, "Reminder": false },
+	 { "Task Name": "Udemy course", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": true },
+	 { "Task Name": "Training", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": true }
+  ],
+ "add": [
+ 	{ "Task Name": "Todo list component", "Date" : "06 Jun 2021", "Completion" : true, "Reminder": false },
+	{ "Task Name": "Udemy course", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": true },
+	{ "Task Name": "Training", "Date" : "22 Jun 2021", "Completion" : true, "Reminder": true },
+	{ "Task Name": "Todo list component 2", "Date" : "07 Jun 2021", "Completion" : true, "Reminder": true },
+	{ "Task Name": "Udemy course 2", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": true },
+	{ "Task Name": "Training 2", "Date" : "22 Jun 2021", "Completion" : true, "Reminder": true }
+  ],
+  "completeAll": [
+ 	{ "Task Name": "Todo list component", "Date" : "22 Jul 2021", "Completion" : true, "Reminder": false },
+	{ "Task Name": "Udemy course", "Date" : "22 Jul 2021", "Completion" : true, "Reminder": true },
+	{ "Task Name": "Training", "Date" : "22 Jul 2021", "Completion" : true, "Reminder": true }
+  ],
+  "deleteAll": []
 }
