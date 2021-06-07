@@ -4,7 +4,7 @@
 	 { "Task Name": "Udemy course", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": true },
 	 { "Task Name": "Training", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": false }
   ],
- "add": [
+  "add": [
  	{ "Task Name": "Todo list component", "Date" : "06 Jun 2021", "Completion" : true, "Reminder": false },
 	{ "Task Name": "Udemy course", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": false },
 	{ "Task Name": "Training", "Date" : "22 Jun 2021", "Completion" : false, "Reminder": true },
